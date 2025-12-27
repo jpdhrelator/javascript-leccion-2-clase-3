@@ -40,6 +40,3 @@ if (inconsciente === true || fcaCardiaca < 40){
         nivelPrioridad = "amarillo"
         console.log("Debido a su alto tiempo en espera, su nivel de prioridad cambió a " + nivelPrioridad);
     }
-
-
-    
